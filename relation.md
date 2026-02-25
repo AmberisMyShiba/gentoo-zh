@@ -1,6 +1,6 @@
 - Reponame: **`gentoo-zh`**
 
-(The last generation time: 2026-02-25 09:32:36 CST)
+(The last generation time: 2026-02-25 09:33:34 CST)
 
 ### Packages
 
@@ -508,8 +508,8 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-sound/qqmusic                                   | 1.1.8              |            | https://y.qq.com/                                                                       | Tencent QQ Music, converted from .deb package
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- media-sound/spotube-bin                               | 5.0.0              |            | https://github.com/KRTirtho/spotube                                                     | A lightweight Spotify client using YouTube as audio source
-                                                       | 5.1.0              |            |                                                                                         |
+ media-sound/spotube-bin                               | 5.1.0              |            | https://github.com/KRTirtho/spotube                                                     | A lightweight Spotify client using YouTube as audio source
+                                                       | 5.1.1              |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-sound/termusic                                  | 0.12.0             |            | https://github.com/tramhao/termusic                                                     | Terminal Music and Podcast Player written in Rust
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
