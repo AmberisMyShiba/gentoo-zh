@@ -1,6 +1,6 @@
 - Reponame: **`gentoo-zh`**
 
-(The last generation time: 2026-02-25 10:26:50 CST)
+(The last generation time: 2026-02-25 10:31:47 CST)
 
 ### Packages
 
@@ -316,7 +316,7 @@
    dev-python/microfs2                                 | 2.0.9              | RD         | https://github.com/blackteahamburger/microfs                                            | A module and utility to work with the simple filesystem on the BBC micro:bit
    dev-python/nudatus                                  | 0.0.5              | RD         | https://github.com/ZanderBrown/nudatus                                                  | CircuitPython board identification and information
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- dev-python/uv-bin                                     | 0.9.26             |            | https://github.com/astral-sh/uv                                                         | An extremely fast Python package and project manager, written in Rust.
+ dev-python/uv-bin                                     | 0.10.6             |            | https://github.com/astral-sh/uv                                                         | An extremely fast Python package and project manager, written in Rust.
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  dev-ruby/filelock                                     | 1.1.1              |            | https://github.com/sheerun/filelock                                                     | Heavily tested, but simple filelocking solution using flock command
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
@@ -508,7 +508,8 @@
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-sound/qqmusic                                   | 1.1.8              |            | https://y.qq.com/                                                                       | Tencent QQ Music, converted from .deb package
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
- media-sound/spotube-bin                               | 5.1.0              |            | https://github.com/KRTirtho/spotube                                                     | A lightweight Spotify client using YouTube as audio source
+ media-sound/spotube-bin                               | 5.0.0              |            | https://github.com/KRTirtho/spotube                                                     | A lightweight Spotify client using YouTube as audio source
+                                                       | 5.1.0              |            |                                                                                         |
                                                        | 5.1.1              |            |                                                                                         |
 -------------------------------------------------------|--------------------|------------|-----------------------------------------------------------------------------------------|--------------------
  media-sound/termusic                                  | 0.12.0             |            | https://github.com/tramhao/termusic                                                     | Terminal Music and Podcast Player written in Rust
